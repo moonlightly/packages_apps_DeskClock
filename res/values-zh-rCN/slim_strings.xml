@@ -51,7 +51,7 @@
     </string-array>
 
     <!-- Settings strings -->
-    <string name="stopwatch_settings">STOPWATCH</string>
+    <string name="stopwatch_settings">停止监视</string>
     <string name="keep_display_on_stopwatch">保持显示屏常亮</string>
     <string name="keep_display_on_stopwatch_summary">秒表运行时保持显示屏常亮</string>
 
