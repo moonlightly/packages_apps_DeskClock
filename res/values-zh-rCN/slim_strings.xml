@@ -28,10 +28,10 @@
     <string name="flip_action_title">翻转动作</string>
 
     <!-- Dialog title of the flip action setting. -->
-    <string name="flip_action_dialog_title">翻转设备到\u2026</string>
+    <string name="flip_action_dialog_title">翻转设备为\u2026</string>
 
     <!-- Setting summary for the flip action setting. -->
-    <string name="flip_action_summary">向下翻转手机将 <xliff:g id="action">%s</xliff:g></string>
+    <string name="flip_action_summary">向下翻转手机为 <xliff:g id="action">%s</xliff:g></string>
 
     <!-- Setting title for the shake action setting. -->
     <string name="shake_action_title">摇动动作</string>
@@ -51,7 +51,7 @@
     </string-array>
 
     <!-- Settings strings -->
-    <string name="stopwatch_settings">停止监视</string>
+    <string name="stopwatch_settings">监视状态</string>
     <string name="keep_display_on_stopwatch">保持显示屏常亮</string>
     <string name="keep_display_on_stopwatch_summary">秒表运行时保持显示屏常亮</string>
 
